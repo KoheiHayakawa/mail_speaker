@@ -17,10 +17,12 @@ If you'd like to use in English, please fix code on line 12-14.
 How to use
 ----------------------------------------------------
 1. 音声読み上げの"システムの声"を日本語(Kyoko)にする
-2. Mail.app>環境設定>ルール>ルールを追加>AppleScriptを実行
+2. ソースを~/Library/Application Scripts/com.apple.mail にコピー
+3. Mail.app>環境設定>ルール>ルールを追加>AppleScriptを実行
 
 1. Confirm that "System Voice" on the Speech is English
-2. Mail.app>Preferences>Rules>Add Rule>Run AppleScript
+2. Copy source file to ~/Library/Application Scripts/com.apple.mail
+3. Mail.app>Preferences>Rules>Add Rule>Run AppleScript
 
 
 ----------------------------------------------------
